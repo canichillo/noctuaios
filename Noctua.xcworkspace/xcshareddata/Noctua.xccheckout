@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E0071863-400C-49FA-90DF-7DC6FA77B6E0</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5832A1DD8E5D757C80F57D2D4F3F14FE3827D5BA</key>
+		<string>https://bitbucket.org/canichillo/Noctuaios.git</string>
+		<key>62D878CB3ADE519AA6063A0C7A9B9CC574DEF9AB</key>
+		<string>https://bitbucket.org/canichillo/noctuaios.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5832A1DD8E5D757C80F57D2D4F3F14FE3827D5BA</key>
+		<string>Noctua</string>
+		<key>62D878CB3ADE519AA6063A0C7A9B9CC574DEF9AB</key>
+		<string>Noctuaios/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/canichillo/noctuaios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>62D878CB3ADE519AA6063A0C7A9B9CC574DEF9AB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5832A1DD8E5D757C80F57D2D4F3F14FE3827D5BA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Noctua</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>62D878CB3ADE519AA6063A0C7A9B9CC574DEF9AB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Noctuaios</string>
+		</dict>
+	</array>
+</dict>
+</plist>

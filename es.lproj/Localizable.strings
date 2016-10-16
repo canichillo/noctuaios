@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Noctua
+
+  Created by Alberto Javier Sánchez Peralta on 24/8/14.
+  Copyright (c) 2014 Alberto Javier Sánchez Peralta. All rights reserved.
+*/
+"Skip"        = "Comenzar";
+"Done"        = "Hecho";
+"of"          = "de";
+"Now"         = "Hoy";
+"Select"      = "Aceptar";
+"Cancel"      = "Cancelar";
+"New Message" = "Nuevo Mensaje";
+"Send"        = "Enviar";
